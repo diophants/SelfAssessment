@@ -86,7 +86,7 @@
   - Default parameters \*
   - Functional object ~
   - `Function.prototype.call`
-  - `Function.prototype.bind`
+  - `Function.prototype.bind` ~
   - `Function.prototype.apply`
   - `return` \*
 - Data structures
