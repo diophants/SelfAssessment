@@ -1,19 +1,19 @@
 ## Databases
 
 - Theory and concepts
-  - Data types +
+  - Data types: 🎓 known
   - Performance tuning
-  - Migrations ~
+  - Migrations: 👂 heard
   - Schema versioning
-  - Backup and recovery ~
-  - Database scalability ~
+  - Backup and recovery: 👂 heard
+  - Database scalability: 👂 heard
   - Relational databases
-  - Key-value store \*
+  - Key-value store \: 🖐️ used
   - Tuple store
-  - Graph databases ~
-  - Object databases ~
-  - Column databases ~
-  - Navigational databases ~
+  - Graph databases: 👂 heard
+  - Object databases: 👂 heard
+  - Column databases: 👂 heard
+  - Navigational databases: 👂 heard
   - Hierarchical databases
   - In-memory databases
   - Inverted index
@@ -24,10 +24,10 @@
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
-  - Indexing\*
-  - Promary keys\*
-  - Foreign keys\*
-  - Transactions~
+  - Indexing\: 🖐️ used
+  - Promary keys\: 🖐️ used
+  - Foreign keys\: 🖐️ used
+  - Transactions: 👂 heard
   - Views
   - Subqueries
   - Stored procedures
@@ -36,52 +36,52 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` \*
-  - `INSERT`\*
-  - `UPDATE`\*
-  - `DELETE`\*
-  - `LIMIT` +
+  - `SELECT` \: 🖐️ used
+  - `INSERT`\: 🖐️ used
+  - `UPDATE`\: 🖐️ used
+  - `DELETE`\: 🖐️ used
+  - `LIMIT`: 🎓 known
   - `OFFSET`
-  - `ORDER BY` +
+  - `ORDER BY`: 🎓 known
   - `GROUP BY`
   - `HAVING`
-  - `EXISTS` \*
+  - `EXISTS` \: 🖐️ used
   - `JOIN`
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE` \*
-  - `LIKE`~
-  - `IN`~
-  - `BETWEEN` ~
-  - `CREATE TABLE` \*
-  - `ALTER TABLE`\*
-  - `DROP TABLE`\*
-  - `PRIMARY KEY`\*
-  - `FOREIGN KEY`\*
-  - `CHECK` ~
-  - `DEFAULT` ~
-  - `INDEX` \*
-  - `UNIQUE` \*
+  - `WHERE` \: 🖐️ used
+  - `LIKE`: 👂 heard
+  - `IN`: 👂 heard
+  - `BETWEEN`: 👂 heard
+  - `CREATE TABLE` \: 🖐️ used
+  - `ALTER TABLE`\: 🖐️ used
+  - `DROP TABLE`\: 🖐️ used
+  - `PRIMARY KEY`\: 🖐️ used
+  - `FOREIGN KEY`\: 🖐️ used
+  - `CHECK`: 👂 heard
+  - `DEFAULT`: 👂 heard
+  - `INDEX` \: 🖐️ used
+  - `UNIQUE` \: 🖐️ used
   - `GRANT`
   - `REVOKE`
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL \*
-  - Oracle ~
-  - MySQL +
+  - PostgreSQL \: 🖐️ used
+  - Oracle: 👂 heard
+  - MySQL: 🎓 known
   - MariaDB
   - MS SQL Server
-  - Redis ~
+  - Redis: 👂 heard
   - Rabbit
-  - MongoDB ~
+  - MongoDB: 👂 heard
   - Memcached
   - Riak
   - DB2
-  - SQLite ~
+  - SQLite: 👂 heard
   - DynamoDB
   - Firebase
 - Data engineering
