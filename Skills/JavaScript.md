@@ -1,121 +1,121 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
-  - `this`
-  - `instanceof`
+  - `Object`: 🙋 explained
+  - `Function`: 🙋 explained
+  - `Boolean`: 🙋 explained
+  - `Number`: 🙋 explained
+  - `BigInt`: 👂 heard
+  - `String`: 🙋 explained
+  - `Symbol`: 🎓 known
+  - `Infinity` \: 🖐️ used
+  - `NaN` \: 🖐️ used
+  - `undefined` \: 🖐️ used
+  - `null` \: 🖐️ used
+  - `this` \: 🖐️ used
+  - `instanceof` \: 🖐️ used
   - `...spread`
   - `...rest`
-  - `typeof`
-  - Destructuring
-  - Generators
-  - Iterators
-  - Async generator
-  - Async iterator
-  - Chaining
+  - `typeof` \: 🖐️ used
+  - Destructuring \: 🖐️ used
+  - Generators \: 🖐️ used
+  - Iterators \: 🖐️ used
+  - Async generator: 👂 heard
+  - Async iterator: 🎓 known
+  - Chaining: 🎓 known
   - Optional chaining
   - IIFE
   - Async IIFE
-  - `global`
+  - `global`: 🎓 known
   - `globalThis`
-  - `window`
-  - Getters and setters
-  - `__proto__`
-  - `prototype`
-  - Equality operators
-  - Logical operators
-  - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
-  - `yield`
-  - `await`
+  - `window` \: 🖐️ used
+  - Getters and setters: 🎓 known
+  - `__proto__`: 🎓 known
+  - `prototype`: 👂 heard
+  - Equality operators: 🙋 explained
+  - Logical operators: 🙋 explained
+  - Logical Assignment: 👂 heard
+  - Bitwise operators: 🎓 known
+  - Ternary operator \: 🖐️ used
+  - `void` \: 🖐️ used
+  - `yield` \: 🖐️ used
+  - `await`: 🙋 explained
   - Template literal
-  - Strict mode
-  - Hoisting
-  - `delete`
-  - `in`
-  - `super`
-  - `eval`
-  - `static`
-  - `Number.parseInt`
+  - Strict mode \: 🖐️ used
+  - Hoisting: 👂 heard
+  - `delete` \: 🖐️ used
+  - `in` \: 🖐️ used
+  - `super` \: 🖐️ used
+  - `eval` \: 🖐️ used
+  - `static` \: 🖐️ used
+  - `Number.parseInt` \: 🖐️ used
   - `Number.parseFloat`
-  - Property descriptors
+  - Property descriptors: 👂 heard
   - Sealing properties
-  - Freezing properties
+  - Freezing properties: 👂 heard
   - Computed properties
   - Instance class fields
   - Static class fields
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
+  - `if`: 🙋 explained
+  - `while`: 🙋 explained
+  - `do..while` \: 🖐️ used
+  - `for`: 🙋 explained
+  - `for..in`: 🙋 explained
+  - `for..of`: 🙋 explained
+  - `for await` \: 🖐️ used
+  - `throw` \: 🖐️ used
+  - `break` \: 🖐️ used
+  - `continue` \: 🖐️ used
+  - `import` \: 🖐️ used
+  - `export` \: 🖐️ used
   - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
+  - `try..catch`: 🙋 explained
+  - `switch` \: 🖐️ used
+  - `class` \: 🖐️ used
+  - `extends` \: 🖐️ used
   - `with`
-  - `new`
+  - `new` \: 🖐️ used
 - Functions
-  - Arrow function
-  - Async function
-  - Function declaration
-  - Function expression
-  - Default parameters
-  - Functional object
+  - Arrow function: 🙋 explained
+  - Async function: 🙋 explained
+  - Function declaration: 👂 heard
+  - Function expression \: 🖐️ used
+  - Default parameters \: 🖐️ used
+  - Functional object: 👂 heard
   - `Function.prototype.call`
-  - `Function.prototype.bind`
+  - `Function.prototype.bind`: 👂 heard
   - `Function.prototype.apply`
-  - `return`
+  - `return` \: 🖐️ used
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
+  - `Array`: 🙋 explained
+  - `Map` \: 🖐️ used
+  - `Set` \: 🖐️ used
   - Weak collections
   - Typed arrays
   - Mixins
   - `Object.assign`
 - Standard classes and namespaces
-  - `Proxy`
-  - `RegExp`
-  - `Date`
-  - `Math`
+  - `Proxy`: 👂 heard
+  - `RegExp`: 👂 heard
+  - `Date`: 🎓 known
+  - `Math` \: 🖐️ used
   - `Reflect`
-  - `Error`
+  - `Error` \: 🖐️ used
   - `Atomics`
-  - `JSON`
+  - `JSON` \: 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
-  - `console`
-  - Timers
+  - `Promise` \: 🖐️ used
+  - `console`: 🙋 explained
+  - Timers \: 🖐️ used
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8: 🎓 known
+  - Node.js \: 🖐️ used
+  - npm \: 🖐️ used
+  - prettier \: 🖐️ used
+  - MDN \: 🖐️ used
   - TC39

@@ -1,30 +1,30 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model: 👂 heard
+  - Modeling: 👂 heard
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm: 🎓 known
+  - Syntax: 🎓 known
   - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
+  - Abstraction: 🎓 known
+  - Paradigm: 🎓 known
+  - Programm \: 🖐️ used
+  - Programming paradigm: 🎓 known
+  - Programming language \: 🖐️ used
+  - Contract: 👂 heard
+  - Module: 🎓 known
   - Library
-  - Package
+  - Package: 👂 heard
   - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
+  - Framework: 👂 heard
+  - Platform: 🎓 known
+  - Source code: 🎓 known
+  - Object code: 👂 heard
+  - Machine code: 🎓 known
   - Microcode
-  - Software engineering
-  - Decomposition
+  - Software engineering: 👂 heard
+  - Decomposition: 👂 heard
   - Control flow
   - Data flow
   - Code reuse
@@ -32,33 +32,33 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
+  - Value \: 🖐️ used
+  - Identifier \: 🖐️ used
+  - Variable \: 🖐️ used
+  - Constant: 🙋 explained
+  - Scalar: 👂 heard
   - Literal
-  - Expression
+  - Expression \: 🖐️ used
   - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
+  - Function \: 🖐️ used
+  - Procedure: 👂 heard
+  - Method \: 🖐️ used
+  - Class \: 🖐️ used
+  - Prototype: 🎓 known
+  - Event \: 🖐️ used
+  - Type \: 🖐️ used
+  - Flag \: 🖐️ used
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
+  - Code block \: 🖐️ used
+  - Conditions: 🎓 known
+  - Loops \: 🖐️ used
+  - Assignment: 👂 heard
+  - Regular expression \: 🖐️ used
+  - Interface: 👂 heard
+  - Namespaces: 🎓 known
+  - Call stack: 👂 heard
+  - Naming conventions \: 🖐️ used
+  - Coding conventions: 👂 heard
   - Camel case
   - Snake case
   - Kebab case
@@ -66,14 +66,14 @@
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types \: 🖐️ used
+  - Reference types \: 🖐️ used
   - Type systems
   - Strong typing
   - Weak typeing
   - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Static typing: 👂 heard
+  - Dynamic typing: 👂 heard
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -82,97 +82,97 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
+  - Argument \: 🖐️ used
+  - Parameter \: 🖐️ used
+  - Pure function \: 🖐️ used
+  - Lambda expression \: 🖐️ used
   - Side effects
-  - Closure
+  - Closure: 👂 heard
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion \: 🖐️ used
   - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
-  - Pipe
+  - Callback \: 🖐️ used
+  - Listener: 🎓 known
+  - Composition: 👂 heard
+  - Pipe: 🎓 known
   - Memoize
-  - Wrapper
-  - Functor
-  - Monad
+  - Wrapper: 👂 heard
+  - Functor: 👂 heard
+  - Monad: 👂 heard
   - Monoid
-  - Generator
+  - Generator \: 🖐️ used
   - Coroutine
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Cbject
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
-  - Doubly list
+  - Array: 🙋 explained
+  - Structure: 🙋 explained
+  - Record: 🎓 known
+  - Enum: 🎓 known
+  - Instance \: 🖐️ used
+  - Cbject: 🎓 known
+  - Collection: 🎓 known
+  - Set: 🎓 known
+  - Hash table: 🎓 known
+  - Linked list: 👂 heard
+  - Doubly list: 👂 heard
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
-  - Iterator
+  - Queue: 🎓 known
+  - Stack: 🎓 known
+  - Deque: 👂 heard
+  - Tree: 👂 heard
+  - Graph: 👂 heard
+  - Iterator: 👂 heard
   - Mutable state
   - Immutable state
   - Serialization
-  - String parsing
-  - JSON
+  - String parsing \: 🖐️ used
+  - JSON \: 🖐️ used
   - JSON5
-  - YAML
+  - YAML: 🎓 known
 - Networking
-  - DNS
+  - DNS: 🎓 known
   - CDN
   - CORS
-  - IPv4
+  - IPv4: 🎓 known
   - IPv6
   - NAT
-  - URL
+  - URL \: 🖐️ used
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler: 🎓 known
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
   - Linter
   - Polyfill
-  - Interpreter
+  - Interpreter: 👂 heard
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime: 👂 heard
+  - Virtual machine: 🎓 known
   - Register-based VM
   - Stack-based VM
-  - Containerization
-  - Debugger
+  - Containerization \: 🖐️ used
+  - Debugger \: 🖐️ used
   - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
+  - Garbage collection: 👂 heard
+  - Refactoring: 🎓 known
+  - Code review: 🎓 known
   - Exception
-  - Unittesting
-  - git
-  - Hithub
-  - Docker
-  - Kubernetes
+  - Unittesting: 👂 heard
+  - git \: 🖐️ used
+  - Hithub \: 🖐️ used
+  - Docker \: 🖐️ used
+  - Kubernetes: 🎓 known
   - GCC
   - LLVM
 - Antipatterns
   - Magic numbers
-  - Hard code
+  - Hard code: 👂 heard
   - Soft code
   - Cryptic code
   - Improbability factor
@@ -193,17 +193,17 @@
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case \: 🖐️ used
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
   - Data clump
   - Feature envy
-  - Monkey patch
+  - Monkey patch: 👂 heard
   - Yo-yo problem
 - Runtimes and virtual machines
   - Bytecode
-  - V8
+  - V8: 🎓 known
   - VJM
   - CLR
   - Mono
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux \: 🖐️ used
+  - Unix: 👂 heard
   - BSD
-  - MacOS
-  - Windows
+  - MacOS: 👂 heard
+  - Windows: 🙋 explained
   - Real-time OS
   - Embedded OS
 - Standards
@@ -228,12 +228,12 @@
   - IETF
   - IANA
   - IEEE
-  - Base64
-  - ECMA
+  - Base64: 🎓 known
+  - ECMA: 🎓 known
   - ICANN
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 \: 🖐️ used
   - W3C
   - ODMG

@@ -1,25 +1,25 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
+  - Procedural programming: 👂 heard
+  - Imperative programming \: 🖐️ used
+  - Structured programming: 👂 heard
+  - Non-structured programming: 👂 heard
+  - Functional programming \: 🖐️ used
+  - Prototype-based programming: 👂 heard
+  - Object-oriented programming \: 🖐️ used
   - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
-  - Functional-reactive (FRP)
+  - Generic programming: 👂 heard
+  - Concurrent computing: 👂 heard
+  - Asyncronous programming \: 🖐️ used
+  - Parallel programming: 👂 heard
+  - Reactive programming: 🎓 known
+  - Functional-reactive (FRP): 👂 heard
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
+  - Multi-paradigm programming: 👂 heard
+  - Metaprogramming: 👂 heard
+  - Actor model \: 🖐️ used
   - Lambda calculus
   - Black box
   - Information hiding
@@ -27,26 +27,26 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
+  - Constructor \: 🖐️ used
+  - Operator `new` \: 🖐️ used
+  - Static method \: 🖐️ used
+  - Method \: 🖐️ used
+  - Async method \: 🖐️ used
+  - Getters, Setters: 🎓 known
   - Public fields
   - Private fields
   - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
+  - Inheritance: 🎓 known
+  - Parent class \: 🖐️ used
+  - Polymorphism: 👂 heard
   - Abstract class
-  - Interface
+  - Interface: 👂 heard
   - Encapsulation
   - Hidden class
   - Object form
-  - Instance
-  - Introspection
-  - Reflection
+  - Instance \: 🖐️ used
+  - Introspection: 👂 heard
+  - Reflection: 👂 heard
   - The diamond problem
 - GRASP
   - Information expert
@@ -71,16 +71,16 @@
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  - Proxy: 👂 heard
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator: 👂 heard
   - State
   - Bridge
   - Builder
-  - Prototype
+  - Prototype: 👂 heard
   - Composite
-  - Decorator
+  - Decorator: 👂 heard
   - Flyweight
   - Mediator
   - Memento
